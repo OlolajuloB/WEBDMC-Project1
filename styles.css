@@ -1,0 +1,142 @@
+body{
+ background-repeat:no-repeat;
+ width:790px;}
+ h1{
+   font-family:monospace;
+   font-size:600%;
+   position:relative;
+   top:10px;
+   left:90px;
+   width:250px;
+   color:white;
+   }
+ img.align-right{
+  float:right;
+  margin-left:10px;
+ }
+
+ .nav-container { background-color: rgba(0, 0, 0, 0); 
+ width: 100%; 
+ position:absolute; }
+ nav li { width: 24%;
+       white-space:nowrap;}
+nav{
+  color:black;
+  display:flex;
+  position:absolute;
+   text-align:left;}
+ p.example { position:absolute; top:0px; right:130px;color:brown;}
+ p{
+   color:orange;
+   left:90px;
+   text-align:justify;
+   text-justify: inter-word;
+   font-size:18px;
+   position:relative;}
+li{
+  display:inline;
+  margin-left:62px;
+  font-size:16px;}
+ li{
+    padding:0px;} 
+ form{
+   text-align:center;
+   font-size:200%;
+   color:blue; text-shadow: 0px 1px 1px #ffffff;border-bottom:0px solid #b2b2b2;
+ border:0px solid #665544; overflow: auto;}
+#one{
+   color:Black;
+   }
+
+.container{
+   margin:0;
+   position:absolute;
+   display:flex;
+   top:50%;
+   right:50%
+   transform:translate(-50%,-50%);
+   }
+h2{
+  font-family:sans-serif;
+  text-align:absolute;
+  color:black;
+  }
+.rounded{
+  border-radius:50%;
+  border-right:4rem;
+  padding:50px;
+  border:8px solid transparent;
+  background:linear-gradient(60deg,#EFA51A 10%,#ce00 100%);
+  }
+
+#three{
+     color:black;
+     position:relative;
+     left:30px;}
+ {box-sizing: border-box;}
+​.column { 
+ float:right ;  
+width: 33.33%; 
+flex:33.33%; 
+padding: 5px;}
+.row::after{
+   content:"";
+   clear:both;
+   display:table;}
+   {
+  box-sizing: border-box;
+}
+
+.row {
+  display: flex;
+}
+
+
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
+div{
+ border-right:3px;}
+ #four{
+     color:black;
+     position:absolute;
+     left:30px;}
+ body{
+   background:linear-gradient;}
+ 
+ #six{
+ color:black;
+     position:absolute;
+     left:80px;}
+ #seven{
+ color:black;
+     position:absolute;
+     left:80px;}
+     
+ td { background-color: #0088dd; padding: 15px; border: 2px solid #000000;} table.one { border-spacing: 5px 15px;} table.two { border-collapse: collapse;}
+
+.column{width:25%;
+      float:left;
+      padding:0px 10px;}
+.row{
+    display:flex;
+    clear:both;
+    }
+.card
+    {box-shadow:0 3px 8px o rgba(0,0,0,0.2);
+    height:400px;
+    width:20em;
+    text-align:start;
+    padding:0px 5px 10px 5px;
+    padding-left:10px;
+    margin-bottom:20px;
+    display:block;
+    }
+#dee{border-color:none;
+    margin-right:80px;
+    margin-top:5em;
+    cursor:pointer;}
+#fish{display:flex;
+    }
+    
